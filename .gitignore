@@ -1,0 +1,14 @@
+# Gradle files
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+
+# IDE Generated Files
+.idea/
+build/
+out/
+target/
+
+# Misc
+demo.bat
