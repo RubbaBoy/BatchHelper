@@ -38,6 +38,8 @@ The two variables at the top `USE_FILE` and `RUN_DEMO` are the only other things
 
 When `RUN_DEMO` is true, it will run a batch file to echo the converted string to show what it will look like.
 
+To view all colors and stuff, check out this cool batch script [Michele Locati](https://github.com/mlocati) created: [win10colors.cmd](https://gist.github.com/mlocati/fdabcaeb8071d5c75a2d51712db24011#file-win10colors-cmd)
+
 # A Bigger Example
 
 This program was originally just made to stylize the logo for [MS Paint IDE](https://github.com/MSPaintIDE/MSPaintIDE) when setting up the codebase locally. This is the default text from [input/input.txt](https://github.com/RubbaBoy/BatchHelper/blob/master/input/input.txt).
